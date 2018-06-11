@@ -3,7 +3,6 @@
 exports[`should render expense list filets 1`] = `
 <div>
   <input
-    o={true}
     onChange={[Function]}
     type="text"
     value=""
@@ -112,7 +111,6 @@ exports[`should render expense list filets 1`] = `
 exports[`should render expense list filets with alt filters 1`] = `
 <div>
   <input
-    o={true}
     onChange={[Function]}
     type="text"
     value="bills"
